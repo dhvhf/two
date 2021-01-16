@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko"></html>
+  <head>
+    <title>처음 시작</title>
+  </head>
+</html>
+<bodY>
+  <h1 style="background-color: skyblue;">처음 시작</h1>
+  <hr>
+  <h2>시작</h2>
+  <hr>
+  <b>deeg</b>
+  <hr>
+  <strong>dgdgr</strong>
+  <hr>
+  <small>dfrbr</small>
+  <hr>
+  <p>i want <mark>mail</mark></p>
+  <p>i want <del>mail</del></p>
+  <p>i like color <del>gray</del> <ins>red</ins></p>
+  <p>this is <sub>dfeg</sub> tdeg</p>
+  <p>this is <sup>dfeg</sup> tdeg</p>
+  <pre>이 문장은 없는겁니다</pre>
+  <p>he is <abbr title="kimjunghyen">kjh</abbr></p>
+  <address>
+    gamil:<br>
+    number:<br>
+    korea:
+  </address>
+  <a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_attributes_link">이동</a>
+  <img src="https://blog.kakaocdn.net/dn/0mySg/btqCUccOGVk/nQ68nZiNKoIEGNJkooELF1/img.jpg" width="900" height="400" alt="it cat">
+</body> 
+</html>
